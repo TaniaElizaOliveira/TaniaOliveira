@@ -6,7 +6,6 @@ Main skills: self-education, strategic vision, adaptability and team building.
 
 Objective: to inspire and motivate people who seek their development, through practical actions and knowledge.
 
-<!---
-TaniaElizaOliveira/TaniaElizaOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p aling="center">
+  <img width="100%" src="public/assets/img/StepByTech.gif">
+  </p>
